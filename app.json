@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Grow-up",
+    "slug": "Grow-up",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Grow-Up.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Grow-Up.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Grow-Up.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sbk_salah.Growup"
+    },
+    "web": {
+      "favicon": "../assets/Grow-Up.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9aa8dfcf-7e79-46e5-ab3c-a48ee71637b9"
+      }
+    }
+  }
+}
